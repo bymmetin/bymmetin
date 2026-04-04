@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **by.mmetin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q4YizJu1FfscySj-rAQQumTqvYzcEaWQ/view?usp=sharing](https://drive.google.com/file/d/1Q4YizJu1FfscySj-rAQQumTqvYzcEaWQ/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1Q4YizJu1FfscySj-rAQQumTqvYzcEaWQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
