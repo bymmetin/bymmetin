@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Muhammet Ali Metin</h1>
-<h3 align="center">Digital Game Design Student seeking a summer internship in game development</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Unreal Engine**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-- 💬 Ask me about **Unity, Unreal Engine**
+# Muhammet Ali Metin
+### Digital Game Design Student · Unity · Unreal Engine
 
-- 📫 How to reach me **by.mmetin@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=3rd+Year+Game+Design+Student;Unity+%26+Unreal+Engine+Developer;Seeking+Summer+Internship+2025;Turning+ideas+into+playable+worlds)](https://git.io/typing-svg)
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1Q4YizJu1FfscySj-rAQQumTqvYzcEaWQ/view?usp=sharing)
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammetalimetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetalimetin" height="30" width="40"></a>
-<a href="https://instagram.com/muhammetali_mtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammetali_mtn" height="30" width="40"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammetalimetin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammetalimetin)
+[![Instagram](https://img.shields.io/badge/Instagram-muhammetali__mtn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammetali_mtn)
+[![Mail](https://img.shields.io/badge/Email-by.mmetin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:by.mmetin@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View%20My%20Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Q4YizJu1FfscySj-rAQQumTqvYzcEaWQ/view?usp=sharing)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## About Me
+
+```diff
