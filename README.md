@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammetalimetin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammetalimetin)
 [![Instagram](https://img.shields.io/badge/Instagram-muhammetali__mtn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammetali_mtn)
 [![Mail](https://img.shields.io/badge/Email-by.mmetin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:by.mmetin@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View%20My%20Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Q4YizJu1FfscySj-rAQQumTqvYzcEaWQ/view?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-View%20My%20Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1Tge3iXUtJqqKHx9aiTV6eqOsXjnUTAik/edit?usp=sharing&ouid=112833347338669794297&rtpof=true&sd=true)
 
 </div>
 
