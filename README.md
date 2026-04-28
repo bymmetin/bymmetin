@@ -21,3 +21,67 @@
 ## About Me
 
 ```diff
++ 🎮  3rd-year Digital Game Design student — building worlds, not just playing them
++ 🔵  Currently deep-diving into Unreal Engine 5 (Blueprints → C++)
++ 🟡  Strong base in Unity (C# scripting, gameplay systems)
++ 📍  Kahramanmaraş, Turkey → Open to remote & on-site internships
+```
+
+---
+
+## Game Engines & Dev Tools
+
+<div align="center">
+
+| Engine | Proficiency | Notes |
+|---|---|---|
+| ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) **Unity** | ████████░░ | C# scripting, gameplay systems |
+| ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) **Unreal Engine** | █████░░░░░ | Currently learning UE5 |
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**3D & Design**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**Other**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bymmetin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymmetin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
+
+*Open to internship opportunities — let's build something great together*
+
+</div>
